@@ -1,8 +1,9 @@
 **Mini-Cloud-BootCamp-Project**
 
-##luxxy-covid-testing-system-en-app1
+## luxxy-covid-testing-system-en-app1
 
-###This Project is grouped into three missions:
+### This Project is grouped into three missions:
+
 -Mission1
 -Mission2
 -Mission3
